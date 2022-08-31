@@ -17,10 +17,7 @@ export default {
                     @toggle="showCompleted = !showCompleted"
                 ></assignment-list>
             </div>
-
         </section>
-
-
     `,
 
 
